@@ -40,7 +40,7 @@
 .Card__text--paragraph {
     color: hsl(220, 15%, 55%);
     font-size: 20px;
-    display: flex;
+    text-align: center;
 
 }
 
