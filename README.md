@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+ ## URL: [qr-code-component-design](https://he-zekiah.github.io/qr-code-component/)
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
